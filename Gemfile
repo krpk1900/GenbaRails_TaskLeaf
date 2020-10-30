@@ -8,6 +8,7 @@ end
 
 gem 'slim-rails'
 gem 'html2slim'
+#gem 'bootstrap-sass'
 gem 'bootstrap'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
