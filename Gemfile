@@ -11,6 +11,7 @@ gem 'html2slim'
 #gem 'bootstrap-sass'
 gem 'bootstrap'
 gem 'rails_autolink'
+gem 'ransack'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
